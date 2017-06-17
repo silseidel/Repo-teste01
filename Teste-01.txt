@@ -1,3 +1,5 @@
 Teste Git 01 - 16-06-2017 às 23:18 .
 
 Teste -> Adicionando linha.
+
+Tentativa de enviar as alterações para o repositório remoto.
